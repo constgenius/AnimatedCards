@@ -27,7 +27,7 @@ body {
     position: relative;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     width: 350px;
     height: 390px;
     background: #fff;
